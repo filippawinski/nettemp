@@ -1,6 +1,6 @@
 lighttpd
 php7.3-cgi 
-php7.3-sqlite 
+php7.3-sqlite3 
 php7.3-fpm 
 php7.3-curl
 php7.3-mysql
@@ -9,7 +9,7 @@ php7.3-xml
 sqlite3 
 msmtp 
 digitemp 
-
+gammu 
 git-core
 mc
 sysstat
@@ -39,6 +39,10 @@ python-dev
 figlet
 libmodbus5
 iptables-persistent
+nut-server
+nut-client
 mysql-client
 python-pymodbus
 lm-sensors
+mosquitto
+mosquitto-clients

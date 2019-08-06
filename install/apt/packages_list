@@ -41,6 +41,7 @@ libmodbus5
 iptables-persistent
 nut-server
 nut-client
+nut-snmp
 mysql-client
 mysql-server
 python-pymodbus

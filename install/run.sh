@@ -14,7 +14,7 @@ source install/i2c/i2c.sh
 source install/fw/fw.sh
 #source install/radius/radius.sh
 source install/sdm120/sdm120.sh
-source install/sms/sms.sh
+$source install/sms/sms.sh
 source install/ups/ups.sh
 source install/vpn/vpn.sh
 

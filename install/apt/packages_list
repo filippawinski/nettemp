@@ -45,4 +45,6 @@ mysql-client
 mysql-server
 python-pymodbus
 lm-sensors
+python-rpi.gpio
+
 

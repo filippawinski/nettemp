@@ -6,6 +6,7 @@ php7.0-curl
 php7.0-mysql
 php7.0-snmp
 php7.0-xml
+php-rrd
 sqlite3 
 msmtp 
 digitemp 
@@ -47,5 +48,5 @@ mysql-server
 python-pymodbus
 lm-sensors
 python-rpi.gpio
-
+python-mysql.connector
 

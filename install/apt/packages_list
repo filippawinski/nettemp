@@ -11,6 +11,7 @@ sqlite3
 msmtp 
 digitemp 
 gammu 
+gammu-smsd
 git-core
 mc
 sysstat
@@ -49,5 +50,4 @@ python-pymodbus
 lm-sensors
 python-rpi.gpio
 python-mysql.connector
-gammu-smsd
 

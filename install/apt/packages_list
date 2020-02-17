@@ -49,4 +49,5 @@ python-pymodbus
 lm-sensors
 python-rpi.gpio
 python-mysql.connector
+gammu-smsd
 

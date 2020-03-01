@@ -3,7 +3,7 @@
 <div class="panel-body">
 <pre>
 <?php
-passthru("/usr/local/bin/gpio readall");
+passthru("/usr/bin/gpio readall");
 ?>
 </pre>
 </div>

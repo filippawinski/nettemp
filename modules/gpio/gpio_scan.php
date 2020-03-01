@@ -17,7 +17,7 @@ foreach ($result as $a) {
 
 }
 
-$wp = '/usr/local/bin/gpio';
+$wp = '/usr/bin/gpio';
 $gpiolist=array();
 
 if (file_exists($wp)) {

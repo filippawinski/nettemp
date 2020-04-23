@@ -10,7 +10,6 @@ php-rrd
 sqlite3 
 msmtp 
 digitemp 
-gammu 
 gammu-smsd
 git-core
 mc
